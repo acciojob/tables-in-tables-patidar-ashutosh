@@ -8,6 +8,12 @@ table{
 th,td,tr,table{
 	border:1px solid black;	
 }
+td{
+	width:50%;
+}
+table{
+text-align:center;
+}
 .table2{
 	height:100%;
 	width:100%;
@@ -15,6 +21,5 @@ th,td,tr,table{
 }
 .table1{
 	width:100%;
-	
 	text-align:center;
 }
