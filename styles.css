@@ -10,7 +10,7 @@ th,td,tr,table{
 }
 td{
 	font-size:16px;
-	font-weight:600;
+	/* font-weight:600; */
 }
 th{
 	font-size:20px;
